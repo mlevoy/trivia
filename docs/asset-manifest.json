@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cs7580sp21-seattle/maia_levoy_assignment3/static/css/main.97daae90.chunk.css",
+    "main.js": "/cs7580sp21-seattle/maia_levoy_assignment3/static/js/main.c0e08e1b.chunk.js",
+    "main.js.map": "/cs7580sp21-seattle/maia_levoy_assignment3/static/js/main.c0e08e1b.chunk.js.map",
+    "runtime-main.js": "/cs7580sp21-seattle/maia_levoy_assignment3/static/js/runtime-main.67080249.js",
+    "runtime-main.js.map": "/cs7580sp21-seattle/maia_levoy_assignment3/static/js/runtime-main.67080249.js.map",
+    "static/css/2.2f9ba80b.chunk.css": "/cs7580sp21-seattle/maia_levoy_assignment3/static/css/2.2f9ba80b.chunk.css",
+    "static/js/2.44a3b702.chunk.js": "/cs7580sp21-seattle/maia_levoy_assignment3/static/js/2.44a3b702.chunk.js",
+    "static/js/2.44a3b702.chunk.js.map": "/cs7580sp21-seattle/maia_levoy_assignment3/static/js/2.44a3b702.chunk.js.map",
+    "static/js/3.edd99884.chunk.js": "/cs7580sp21-seattle/maia_levoy_assignment3/static/js/3.edd99884.chunk.js",
+    "static/js/3.edd99884.chunk.js.map": "/cs7580sp21-seattle/maia_levoy_assignment3/static/js/3.edd99884.chunk.js.map",
+    "index.html": "/cs7580sp21-seattle/maia_levoy_assignment3/index.html",
+    "static/css/2.2f9ba80b.chunk.css.map": "/cs7580sp21-seattle/maia_levoy_assignment3/static/css/2.2f9ba80b.chunk.css.map",
+    "static/css/main.97daae90.chunk.css.map": "/cs7580sp21-seattle/maia_levoy_assignment3/static/css/main.97daae90.chunk.css.map",
+    "static/js/2.44a3b702.chunk.js.LICENSE.txt": "/cs7580sp21-seattle/maia_levoy_assignment3/static/js/2.44a3b702.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67080249.js",
+    "static/css/2.2f9ba80b.chunk.css",
+    "static/js/2.44a3b702.chunk.js",
+    "static/css/main.97daae90.chunk.css",
+    "static/js/main.c0e08e1b.chunk.js"
+  ]
+}
